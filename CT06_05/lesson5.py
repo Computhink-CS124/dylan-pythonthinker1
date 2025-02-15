@@ -1,3 +1,3 @@
 print("Hello from lesson 5")
 
-age = input("What ")
+age = input("What's ")
