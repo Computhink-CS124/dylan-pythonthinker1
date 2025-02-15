@@ -10,5 +10,5 @@ num = num * 2
 print("double your number is "+ str (num) + ".")
 
 year = int (input("What year were u born? "))
-year = year - 2025
+year = 2025 - year
 print("You are " + str(year) + "years old.")
