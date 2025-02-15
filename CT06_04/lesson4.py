@@ -7,4 +7,8 @@ print("Next year, you will be " + str (age) + " years old.")\
 
 num = int(input("give me a random number "))
 num = num * 2
-print("double your number is "+ str (age) + ".")
+print("double your number is "+ str (num) + ".")
+
+year = int (input("What year were u born? "))
+year = year - 2025
+print("You are " + str(year) + "years old.")
