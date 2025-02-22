@@ -52,7 +52,7 @@
 # # **Task 2d**:
 # print("Hello, World!")
 # **Task 3a**:
-age = "25"
+age = 25
 print(age + 1)
 
 # **Task 3b**:
@@ -60,6 +60,7 @@ number = 10
 print(number - 5)
 
 # **Task 3c**:
+
 print(Repeat *3)
 
 # **Task 3d**:
