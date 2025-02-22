@@ -41,8 +41,8 @@ age = 10
 print(age)
 
 # **Task 2b**:
-# name = "Alice"
-# print(nam)
+name = "Alice"
+print(name)
 
 # **Task 2c**:
 # print(x)
