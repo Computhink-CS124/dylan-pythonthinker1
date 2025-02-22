@@ -7,3 +7,11 @@
 #     print(count)
 start = int(input("what number do you want ti start with?"))
 stop = int(input("what number do you want to end with"))
+if start > stop:
+    stop = stop + 1
+    for i in range(start, stop):
+        print(i)
+else:
+    stop = stop - 1
+    for i in range(start, stop, -1):
+        print(i)
