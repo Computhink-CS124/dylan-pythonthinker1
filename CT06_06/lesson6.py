@@ -37,6 +37,7 @@ for i in range(3):
 # print("Hello, World!")
 
 # **Task 2a**:
+age = 10
 print(age)
 
 # **Task 2b**:
