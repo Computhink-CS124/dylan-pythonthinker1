@@ -15,4 +15,6 @@
 #         print(i)
 
 students = int(input("how many students are there? "))
-
+score = 0
+for i in range(students):
+    
