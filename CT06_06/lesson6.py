@@ -19,4 +19,4 @@ score = 0
 for i in range(students):
     score = score + int(input("what is the score of the student"))
 averagescore =(score / students )
-print("the average score of the students is " +  )
+print("the average score of the students is " + str(averagescore) + "")
