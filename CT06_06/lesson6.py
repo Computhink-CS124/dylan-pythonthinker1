@@ -14,4 +14,5 @@
 #     for i in range(start, stop-1, -1):
 #         print(i)
 
-students = 
+students = int(input("how many students are there? "))
+
