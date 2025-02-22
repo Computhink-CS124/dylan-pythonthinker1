@@ -6,4 +6,4 @@
 # for count in range(5, 0, -1):
 #     print(count)
 start = int(input("what number do you want ti start with?"))
-stop = int(input())
+stop = int(input("what number do you want to end with"))
