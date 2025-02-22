@@ -60,11 +60,11 @@ number = 10
 print(number - 5)
 
 # **Task 3c**:
-
+Repeat = 5
 print(Repeat *3)
 
 # **Task 3d**:
-# year = 2023
+year = 2023
 # print("The year is " + year)
 
 # **Task 3e**:
