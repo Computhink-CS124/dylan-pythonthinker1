@@ -5,4 +5,5 @@
 #     print(count)
 # for count in range(5, 0, -1):
 #     print(count)
-start = int(input())
+start = int(input("what number do you want ti start with?"))
+s
