@@ -18,5 +18,5 @@ students = int(input("how many students are there? "))
 score = 0
 for i in range(students):
     score = score + int(input("what is the score of the student"))
-(score / students )
-print("")
+averagescore =(score / students )
+print("the average score of the students is " +  )
