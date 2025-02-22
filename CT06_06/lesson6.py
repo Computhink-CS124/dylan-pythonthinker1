@@ -21,4 +21,4 @@
 # averagescore =(score / students )
 # print("the average score of the students is " + str(averagescore))
 for i in range(3):
-    print()
+    print("Hello, World!")
