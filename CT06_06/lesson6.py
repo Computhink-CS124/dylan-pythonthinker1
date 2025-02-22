@@ -20,3 +20,5 @@
 #     score = score + int(input("what is the score of the student "))
 # averagescore =(score / students )
 # print("the average score of the students is " + str(averagescore))
+for i in range(3):
+    print()
