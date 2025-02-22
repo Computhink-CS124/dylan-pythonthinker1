@@ -11,6 +11,5 @@ if start > stop:
     for i in range(start, stop+1):
         print(i)
 else:
-    stop = stop - 1
     for i in range(start, stop-1, -1):
         print(i)
