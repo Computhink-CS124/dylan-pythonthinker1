@@ -9,5 +9,4 @@ total = score_one + score_two + score_three
 average_score = total / 3
 
 student_name = "Alex"
-str(average_score)
-print("Average score for " + student_name + " is: " + round(average_score))
+print("Average score for " + student_name + " is: " + str(average_score))
