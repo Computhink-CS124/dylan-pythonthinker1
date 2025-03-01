@@ -9605,6 +9605,6 @@ print("Hello from lesson 7")
 #     print ("Nice to meet you " + name)
 
 
-
-for count in range(5):
-    print("j"(count))
+sum = 0
+for n in range(1, 6):
+    prin
