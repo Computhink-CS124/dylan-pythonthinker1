@@ -4481,4 +4481,4 @@ print("Hello from lesson 7")
 # for i in range(n):
 #     print(word)
 
-name = input("")
+name = input("what is ur name? ")
