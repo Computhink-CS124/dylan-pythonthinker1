@@ -9609,4 +9609,4 @@ sum = 0
 for n in range(1, 6):
     sum = sum + int(input("what is number #")(n))
 
-print()
+print("the sum of the numbers is "(sum))
