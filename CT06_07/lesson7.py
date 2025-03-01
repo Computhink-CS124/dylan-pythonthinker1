@@ -1,7 +1,7 @@
 print("Hello from lesson 7")
 
 score_one = 98
-score_two = 0.357261756274621784612874
+score_two = 0.000000000000001
 score_three = 98
 
 total = score_one + score_two + score_three
