@@ -4483,5 +4483,5 @@ print("Hello from lesson 7")
 
 name = input("what is ur name? ")
 n = int(input("how many times would you like to repeat? "))
-for i in range(times):
+for i in range(n):
     print ("Nice to meet you " + name)
