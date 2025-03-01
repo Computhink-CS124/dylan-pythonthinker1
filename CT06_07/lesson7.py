@@ -3650,4 +3650,4 @@ print("Hello from lesson 7")
 
 
 
-n = int()
+n = int(input(""))
