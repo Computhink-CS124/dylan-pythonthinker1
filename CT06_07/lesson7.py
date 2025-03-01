@@ -9997,4 +9997,4 @@ print("Hello from lesson 7")
 # for n in range(1, 6):
 #     sum = sum + int(input("what is number #" + str(n)))
 # print("the sum of the numbers is " + str(sum))
-n = int(input())
+n = int(input("What number for the timestable "))
