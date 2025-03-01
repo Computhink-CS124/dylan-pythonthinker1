@@ -9607,4 +9607,4 @@ print("Hello from lesson 7")
 
 
 for count in range(5):
-    print("")
+    print("j"(count))
