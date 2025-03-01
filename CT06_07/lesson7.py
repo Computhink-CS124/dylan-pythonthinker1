@@ -4482,3 +4482,4 @@ print("Hello from lesson 7")
 #     print(word)
 
 name = input("what is ur name? ")
+times - int(input)
