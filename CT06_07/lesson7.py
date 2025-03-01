@@ -3650,4 +3650,4 @@ print("Hello from lesson 7")
 
 
 
-n = int(input(""))
+n = int(input("What word would you like to repeat? "))
