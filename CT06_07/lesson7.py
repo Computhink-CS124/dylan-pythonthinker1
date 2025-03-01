@@ -2,7 +2,7 @@ print("Hello from lesson 7")
 
 score_one = -45
 score_two = -10
-score_three = 2
+score_three = -30
 
 total = score_one + score_two + score_three
 
