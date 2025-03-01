@@ -1,6 +1,6 @@
 print("Hello from lesson 7")
 
-score_one =90
+score_one = 90
 score_two = 80
 score_three = 75
 
