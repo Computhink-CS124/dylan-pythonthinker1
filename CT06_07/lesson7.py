@@ -9607,4 +9607,4 @@ print("Hello from lesson 7")
 
 sum = 0
 for n in range(1, 6):
-    sum = sum + int(input("what is number #"))
+    sum = sum + int(input("what is number #")(n))
