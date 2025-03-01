@@ -9993,7 +9993,7 @@ print("Hello from lesson 7")
 # n = int(input("how many times would you like to repeat? "))
 # for i in range(n):
 #     print ("Nice to meet you " + name)
-sum = 0
-for n in range(1, 6):
-    sum = sum + int(input("what is number #" + str(n)))
-print("the sum of the numbers is " + str(sum))
+# sum = 0
+# for n in range(1, 6):
+#     sum = sum + int(input("what is number #" + str(n)))
+# print("the sum of the numbers is " + str(sum))
