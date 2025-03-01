@@ -9603,3 +9603,8 @@ print("Hello from lesson 7")
 # n = int(input("how many times would you like to repeat? "))
 # for i in range(n):
 #     print ("Nice to meet you " + name)
+
+
+
+for count in range(5):
+    print("")
