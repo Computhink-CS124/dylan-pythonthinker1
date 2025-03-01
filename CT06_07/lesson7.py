@@ -3653,4 +3653,4 @@ print("Hello from lesson 7")
 n = (input("What word would you like to repeat? "))
 times = int(input("how many times would you like to repeat it for?"))
 for i in range(times):
-    print()
+    print(n)
