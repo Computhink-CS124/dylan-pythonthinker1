@@ -3,8 +3,8 @@ end = int(input("What number do you want to end with"))  #asking the user what n
 increment = int(input("What number is the increment "))  #asking the user for the increment
 if start > end:
     for i in range(start, end - 1, increment):  #making a loop
-        print (i)  #printing the answer
+        print(i)  #printing the answer
 else:
     for i in range(start, end + 1, increment):  #making a loop
-        print (i)  #printing the answer
+        print(i)  #printing the answer
 
