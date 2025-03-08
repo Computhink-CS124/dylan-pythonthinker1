@@ -1,2 +1,2 @@
 name = input("What is your name? ") #asking the person for their name
-print("Nice to meet  you " + name + "!") #printing the 
+print("Nice to meet  you " + name + "!") #printing the persons name
