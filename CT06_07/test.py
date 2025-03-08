@@ -1,1 +1,1 @@
-name = input("What is your name? ") #asking the user for their 
+name = input("What is your name? ") #asking the person for their name
