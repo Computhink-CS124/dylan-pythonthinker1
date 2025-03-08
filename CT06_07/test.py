@@ -5,6 +5,6 @@ if start > end:
     for i in range(start, end - 1, increment):  #making a loop
         print (i)  #printing the result
 else:
-    for i in range(start, end + 1, increment):
+    for i in range(start, end + 1, increment):  #making a loop
         print (i)
 
