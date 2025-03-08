@@ -1,1 +1,1 @@
-start = 
+start = ("What number do you want to start with")
