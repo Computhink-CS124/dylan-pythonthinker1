@@ -19,3 +19,4 @@ print(num1)
 
 num2 = 3 == 3
 num3 = 4 == 4
+print(num2 == num3)
