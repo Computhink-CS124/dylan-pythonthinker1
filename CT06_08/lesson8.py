@@ -17,4 +17,5 @@
 num1 = 3 == 5
 print(num1)
 
-num2 
+num2 = 3 == 3
+num3 = 4 == 4
