@@ -6,3 +6,4 @@
 #     time.sleep(1)
 # print ("the bomb exploded!")
 import random 
+sum = random()
