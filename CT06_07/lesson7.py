@@ -27,7 +27,7 @@ sum = 0
 for i in range(1, 6):
     sum = sum + int(input("What is the score of student#" + i))
 average_score = sum / 5
-print("The average score of your students is")
+print("The average score of your students is " + average_score)
 
 
 
