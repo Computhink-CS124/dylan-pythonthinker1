@@ -5,5 +5,6 @@
 #     print(i)
 #     time.sleep(1)
 # print ("the bomb exploded!")
-# import random 
+import random 
 
+num = random.randint
