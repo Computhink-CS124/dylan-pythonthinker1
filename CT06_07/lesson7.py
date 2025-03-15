@@ -40,8 +40,8 @@ print("Hello from lesson 7")
 
 
 sum = 0
-numofstudents = int(input("How many students do you have? "))
-for i in range(1, 6):
+numofstudents = i(input("How many students do you have? "))
+for i in range(1, numofstudents):
     sum = sum + int(input("What is the score of student #" + str(i)) + "? ")
 average_score = sum / 5
 print("The average score of your students is " + str(average_score))
