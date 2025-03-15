@@ -15,4 +15,4 @@
 #     print(num)
 
 num1 = 3 == 5
-print()
+print(num1)
