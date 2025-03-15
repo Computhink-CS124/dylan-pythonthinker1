@@ -14,3 +14,4 @@
 #     num = random.randint(0,9999)
 #     print(num)
 
+num1 = 3 == 5
