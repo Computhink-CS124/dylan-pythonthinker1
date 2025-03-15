@@ -22,3 +22,4 @@ num3 = 4 == 4
 print(num2 == num3)
 
 num4 = 8 == 8
+num5 = 8 == 42
