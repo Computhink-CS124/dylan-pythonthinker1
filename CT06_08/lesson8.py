@@ -8,3 +8,7 @@
 import random 
 
 num = random.randint(0, 6)
+print (num)
+
+for i in range(20):
+    
