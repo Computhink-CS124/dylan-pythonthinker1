@@ -9996,6 +9996,6 @@ for i in range(1,num + 1):
 # for n in range(1, 6):
 #     sum = sum + int(input("what is number #" + str(n)))
 # print("the sum of the numbers is " + str(sum))
-n = int(input("What number for the timestable "))
-for i in range(1, 13):
-    print(str(n) + " x " + str(i) + " = " + str(n * i))
+# n = int(input("What number for the timestable "))
+# for i in range(1, 13):
+#     print(str(n) + " x " + str(i) + " = " + str(n * i))
