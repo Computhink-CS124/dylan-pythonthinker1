@@ -5,11 +5,11 @@
 #     print(i)
 #     time.sleep(1)
 # print ("the bomb exploded!")
-import random 
+# import random 
 
-num = random.randint(0, 6)
-print (num)
+# num = random.randint(0, 6)
+# print (num)
 
-for i in range(10):
-    num = random.randint(0,9999)
-    print(num)
+# for i in range(10):
+#     num = random.randint(0,9999)
+#     print(num)
