@@ -26,4 +26,4 @@
 # print(num4 == num5)
 
 import random
-num1 = random.randint()
+num1 = random.randint(0, 50)
