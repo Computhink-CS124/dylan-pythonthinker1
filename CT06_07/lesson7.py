@@ -6,8 +6,7 @@ print("Hello from lesson 7")
 
 # total = score_one + score_two + score_three
 
-# average_score = total / 3
-
+# average_sc
 # student_name = "Alex"
 # print("Average score for " + student_name + " is: " + str(average_score)
 
