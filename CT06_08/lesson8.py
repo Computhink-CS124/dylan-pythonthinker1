@@ -6,5 +6,5 @@
 #     time.sleep(1)
 # print ("the bomb exploded!")
 import random 
-sum = random.randint(o,6)
+sum = random.randint(0,6)
 print (sum)
