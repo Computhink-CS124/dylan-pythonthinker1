@@ -14,13 +14,15 @@
 #     num = random.randint(0,9999)
 #     print(num)
 
-num1 = 3 == 5
-print(num1)
+# num1 = 3 == 5
+# print(num1)
 
-num2 = 3 == 3
-num3 = 4 == 4
-print(num2 == num3)
+# num2 = 3 == 3
+# num3 = 4 == 4
+# print(num2 == num3)
 
-num4 = 8 == 8
-num5 = 8 == 42
-print(num4 == num5)
+# num4 = 8 == 8
+# num5 = 8 == 42
+# print(num4 == num5)
+
+import random
