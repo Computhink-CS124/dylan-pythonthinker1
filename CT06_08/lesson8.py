@@ -7,3 +7,4 @@
 # print ("the bomb exploded!")
 import random 
 sum = random
+print(sum)
