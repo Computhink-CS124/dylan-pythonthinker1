@@ -7,4 +7,4 @@
 # print ("the bomb exploded!")
 import random 
 
-num = random.randint
+num = random.randint(0, 6)
