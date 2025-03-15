@@ -5,4 +5,4 @@
 #     print(i)
 #     time.sleep(1)
 # print ("the bomb exploded!")
-import _random
+import random 
