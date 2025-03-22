@@ -10,3 +10,4 @@ print("Third num: " + str(num3))
 num1iseven = num1 % 2 == 0 
 num2iseven = num2 % 2 == 0
 num3iseven = num3 % 2 == 0
+all_even_odd = num
