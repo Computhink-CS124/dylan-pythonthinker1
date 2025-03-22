@@ -15,4 +15,4 @@ import random
 # days = int(input("How many days have you borrowed yiour book for? "))
 # if days > 25:
 #     print("return your book!")
-magicnum = random.randint
+magicnum = random.randint(1, 10)
