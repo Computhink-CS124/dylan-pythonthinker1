@@ -38,4 +38,4 @@ if num_oranges < 5:
     costorange = num_oranges * px_orange
 if num_apples < 5:
     costapple = num_apples * px_apple
-print(costapple + costorange)
+print("Total cost is: " + (costapple + costorange))
