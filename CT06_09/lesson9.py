@@ -12,4 +12,4 @@
 # num3iseven = num3 % 2 == 0
 # all_even_odd = num1iseven == num2iseven == num3iseven
 # print(all_even_odd)
-days = int(input(""))
+days = int(input("How many days have you borrowed yiour book for? "))
