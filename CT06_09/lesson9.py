@@ -16,3 +16,4 @@ import random
 # if days > 25:
 #     print("return your book!")
 magicnum = random.randint(1, 10)
+guess = int(input(""))
