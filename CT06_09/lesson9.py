@@ -27,4 +27,4 @@ costapple = 0
 costorange = 0
 total = 0
 
-num_apples = int(input)
+num_apples = int(input("How many apples would you like to buy? "))
