@@ -21,3 +21,4 @@ import random
 #     print("Thats the magic number!")
 
 
+px_apple = 0.60
