@@ -28,7 +28,7 @@ costorange = 0
 total = 0
 
 num_apples = int(input("How many apples would you like to buy? "))
-num_oranges = int(inpu("How many oranges would you like to buy? "))
+num_oranges = int(input("How many oranges would you like to buy? "))
 
 if num_apples > 5:
-    costapple = num_apples*px_apple
+    costapple = num_apples*px_apple * 0.9
