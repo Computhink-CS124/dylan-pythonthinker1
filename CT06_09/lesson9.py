@@ -5,4 +5,4 @@ num3 = int(input("What is the third number? "))
 
 print("First num: " + str(num1))
 print("Second num: " + str(num2) )
-print("Thired num: " + str(num3))
+print("Third num: " + str(num3))
