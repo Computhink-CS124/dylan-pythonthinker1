@@ -26,3 +26,5 @@ px_orange = 0.90
 costapple = 0
 costorange = 0
 total = 0
+
+num_apples = int()
