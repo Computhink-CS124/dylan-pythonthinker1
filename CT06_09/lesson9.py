@@ -24,4 +24,5 @@ import random
 px_apple = 0.60
 px_orange = 0.90
 costapple = 0
-costorange = 
+costorange = 0
+total = 0
