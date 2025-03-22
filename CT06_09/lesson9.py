@@ -28,4 +28,4 @@ costorange = 0
 total = 0
 
 num_apples = int(input("How many apples would you like to buy? "))
-num_oranges = int()
+num_oranges = int(inout("How many oranges would you like to buy? "))
