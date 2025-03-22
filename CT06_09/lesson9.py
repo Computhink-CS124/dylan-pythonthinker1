@@ -27,4 +27,4 @@ costapple = 0
 costorange = 0
 total = 0
 
-num_apples = int()
+num_apples = int(input)
