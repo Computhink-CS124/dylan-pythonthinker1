@@ -14,4 +14,4 @@
 # print(all_even_odd)
 days = int(input("How many days have you borrowed yiour book for? "))
 if days > 25:
-    print("remember to return your book!")
+    print("return your book!")
