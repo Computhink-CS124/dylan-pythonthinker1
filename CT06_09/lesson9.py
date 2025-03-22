@@ -1,4 +1,4 @@
-# import random
+import random
 # num1 = int(input("What is the first number? "))
 # num2 = int(input("What is the second number? "))
 # num3 = int(input("What is the third number? ")) 
@@ -15,3 +15,4 @@
 # days = int(input("How many days have you borrowed yiour book for? "))
 # if days > 25:
 #     print("return your book!")
+random.randint()
