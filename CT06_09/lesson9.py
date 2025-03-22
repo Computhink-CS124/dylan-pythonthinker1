@@ -4,4 +4,4 @@ for i in range(num):
     num1 = random.randint(1, 10)
     num2 = random.randint(1, 10)
     ans = int(input("What is " + (num1) + "x " + (num2) + "? "))
-    print(num1 )
+    print(num1 * num2 == ans)
