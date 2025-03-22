@@ -1,6 +1,5 @@
 import random
-guess = int(input("Guess a number from 1 to 10 "))
-num1 = random.randbytes(1, 10)
-print("Guess: "+ str(guess))
+guess = int(input("guess a number from 1 to 10"))
+print("Guess: " + (guess))
 print("num1: " + str(num1))
 print(num1 == guess)
