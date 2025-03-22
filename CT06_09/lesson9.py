@@ -8,16 +8,16 @@ import random
 # print("Third num: " + str(num3))
 
 # num1iseven = num1 % 2 == 0 
-# num2iseven = num2 % 2 == 0
-# num3iseven = num3 % 2 == 0
-# all_even_odd = num1iseven == num2iseven == num3iseven
-# print(all_even_odd)
-# days = int(input("How many days have you borrowed yiour book for? "))
-# if days > 25:
-#     print("return your book!")
-magicnum = random.randint(1, 10)
-guess = int(input("Guess a number from 1 to 10 "))
-if guess == magicnum:
-    print("Thats the magic number!")
+# # num2iseven = num2 % 2 == 0
+# # num3iseven = num3 % 2 == 0
+# # all_even_odd = num1iseven == num2iseven == num3iseven
+# # print(all_even_odd)
+# # days = int(input("How many days have you borrowed yiour book for? "))
+# # if days > 25:
+# #     print("return your book!")
+# magicnum = random.randint(1, 10)
+# guess = int(input("Guess a number from 1 to 10 "))
+# if guess == magicnum:
+#     print("Thats the magic number!")
 
 
