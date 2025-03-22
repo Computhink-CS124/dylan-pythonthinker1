@@ -34,3 +34,5 @@ if num_apples > 5:
     costapple = num_apples*px_apple * 0.9
 if num_oranges > 5:
     costorange = num_oranges * px_orange * 0.9
+if num_oranges > 5:
+    cost
