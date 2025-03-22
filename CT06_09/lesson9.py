@@ -1,2 +1,2 @@
 import random
-num = int
+num = int(input(""))
