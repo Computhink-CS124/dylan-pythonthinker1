@@ -35,6 +35,6 @@
 #     print("Ticket price is $20"
 
 
-pw = (input("Gimmie a pw "))
-if not pw == "Python123":
-    print("Acces denied")
+# pw = (input("Gimmie a pw "))
+# if not pw == "Python123":
+    # print("Acces denied")
