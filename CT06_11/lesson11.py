@@ -42,4 +42,6 @@
 
 burg = input("Do you want burg")
 potatos = input("Do you want fries")
-drink = input()
+drink = input("Do u want a drink")
+if burg == "Yes" and potatos == "Yes" and not drink == "Yes":
+    print("")
