@@ -599,4 +599,4 @@ else:
 
 
 if px <= 50000:
-    print 
+    print ("NOOOOOOOOOOOOOO WERE GOING BACK TO THE SLUMS")
