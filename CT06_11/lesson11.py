@@ -5,4 +5,6 @@ if px <= 5:
 elif px <= 50:
     print ("r u sure we need this?")
 elif px <= 500:
-    print("Where are u getting all tho")
+    print("Where are u getting all this money from?")
+else: 
+    ("Dont even think about it!")
