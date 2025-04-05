@@ -3,4 +3,4 @@ px = int(input("price "))
 if px <= 5:
     print("Sound good!")
 elif px <= 50:
-    print
+    print ("r u sure we need this?")
