@@ -7,4 +7,4 @@ elif px <= 50:
 elif px <= 500:
     print("Where are u getting all this money from?")
 else: 
-    print("DONT U DARE BUY  THI")
+    print("DONT U DARE BUY THIS EXPENSIVE AHH SKIBIDI TOILET!!!!")
