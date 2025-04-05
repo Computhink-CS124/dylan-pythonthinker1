@@ -41,4 +41,5 @@
 
 
 burg = input("Do you want burg")
-potatos
+potatos = input("Do you want fries")
+drink = input()
