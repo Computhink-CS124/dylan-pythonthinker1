@@ -30,4 +30,6 @@
 #     print("go on the ride")
 age = int(input("Wut is ur age "))
 if age >= 65 or age <= 12:
-    print("ticketprice")
+    print("ticket price 15 bitcoin")
+else:
+    print
