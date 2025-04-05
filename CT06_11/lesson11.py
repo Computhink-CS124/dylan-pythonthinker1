@@ -20,4 +20,5 @@
 # result = rider1 > 120 and rider2 > 120
 # print(result)
 
-num = int(input(""))
+num = int(input("gimmie a number or i will send you back to the slums "))
+if num % 3 == 0 and num % 7 == 0
