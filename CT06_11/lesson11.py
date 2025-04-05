@@ -37,4 +37,4 @@
 
 pw = int(input("Gimmie a pw "))
 if not pw == "Python123":
-    print
+    print("Acces denied")
