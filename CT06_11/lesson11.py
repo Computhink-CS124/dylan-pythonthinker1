@@ -35,4 +35,6 @@
 #     print("Ticket price is $20"
 
 
-pw = int(input(""))
+pw = int(input("Gimmie a pw "))
+if not pw == "Python123":
+    print
