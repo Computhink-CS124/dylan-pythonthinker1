@@ -40,3 +40,4 @@
     # print("Acces denied")
 
 
+burg = input("Do you want burg")
