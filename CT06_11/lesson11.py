@@ -41,3 +41,4 @@
 
 
 burg = input("Do you want burg")
+potatos
