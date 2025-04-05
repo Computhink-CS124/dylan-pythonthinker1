@@ -52,3 +52,5 @@ usernameinput = input("What is username? ")
 pwinput = input("What is pw")
 if usernameinput == username and pwinput == pw:
     print("Acces granted!")
+elif usernameinput == username or pwinput == pw:
+    print
