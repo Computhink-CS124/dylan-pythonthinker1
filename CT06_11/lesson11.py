@@ -21,4 +21,5 @@
 # print(result)
 
 num = int(input("gimmie a number or i will send you back to the slums "))
-if num % 3 == 0 and num % 7 == 0
+if num % 3 == 0 and num % 7 == 0:
+    print("The skibidi toilet you gave me is divisable by 3 and 7")
