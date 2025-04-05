@@ -49,4 +49,6 @@
 username = "John123"
 pw = "pw123"
 usernameinput = input("What is username? ")
-pwi
+pwinput = input("What is pw")
+if usernameinput == username and pwinput == pw:
+    print("Acces granted!")
