@@ -25,11 +25,14 @@
 #     print("The skibidi toilet you gave me is divisable by 3 and 7")
 
 # rider1 = 25
-# rider2 = 6
-# if rider1 >= 18 or rider2 >= 18:
-#     print("go on the ride")
-age = int(input("Wut is ur age "))
-if age > 65 or age < 12:
-    print("ticket pric is $15")
-else:
-    print("Ticket price is $20")
+# # rider2 = 6
+# # if rider1 >= 18 or rider2 >= 18:
+# #     print("go on the ride")
+# age = int(input("Wut is ur age "))
+# if age > 65 or age < 12:
+#     print("ticket pric is $15")
+# else:
+#     print("Ticket price is $20")
+
+
+
