@@ -24,4 +24,7 @@
 # if num % 3 == 0 and num % 7 == 0:
 #     print("The skibidi toilet you gave me is divisable by 3 and 7")
 
-rider 
+rider1 = 25
+rider2 = 6
+if rider1 > 18 or rider2 > 18:
+    print
