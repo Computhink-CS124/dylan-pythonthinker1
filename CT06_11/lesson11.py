@@ -10,3 +10,9 @@
 #     print("DONT U DARE BUY THIS EXPENSIVE AHH SKIBIDI TOILET!!!")
 # if px <= 50000:
 #     print ("NOOOOOOOOOOOOOO WERE GOING BACK TO THE SLUMS")
+
+
+
+
+
+rider1 = 125
