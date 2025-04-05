@@ -47,4 +47,5 @@
 #     print("Won't you get thirsty?")
 
 username = "John123"
-pw = ("pw123")
+pw = "pw123"
+usernameinput = input("What ")
