@@ -1,1 +1,5 @@
 print("Hello from lesson 12")
+visitors = 0
+while visitors < 50:
+    visitors = visitors + 1 # visitors += 1
+print("there are " + str(visitors) + " visitors.")
