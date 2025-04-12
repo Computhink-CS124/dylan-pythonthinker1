@@ -46,7 +46,7 @@
 # if burg == "Yes" and potatos == "Yes" and not drink == "Yes":
 #     print("Won't you get thirsty?")
 
-# username = "John123"
+# username = "Timmy123"
 # pw = "pw123"
 # usernameinput = input("What is username? ")
 # pwinput = input("What is pw")
