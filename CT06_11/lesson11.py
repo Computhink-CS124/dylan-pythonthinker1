@@ -67,10 +67,14 @@
 # else:
 #     print("The number is not divisable by 3 and 5")
 
-# visitors = 0 
-# while visitors < 50:
-#     visitors = visitors + 1 # visitors += 1
-# print("there are " + str(visitors) + " visitors.")
+visitors = 0 
+while visitors < 50:
+    visitors = visitors + 1 # visitors += 1
+print("there are " + str(visitors) + " visitors.")
 
+0 
+while visitors < 50:
+    visitors = visitors + 1 # visitors += 1
+print("there are " + str(visitors) + " visitors.")
 
 
