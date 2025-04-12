@@ -74,4 +74,5 @@
 
 visitors = 18
 while visitors < 30:
-    visitors = visitors 
+    visitors = visitors + 1
+    print 
