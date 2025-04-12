@@ -74,4 +74,4 @@
 
 visitors = 18
 while visitors < 30:
-    
+    visitors = visitors 
