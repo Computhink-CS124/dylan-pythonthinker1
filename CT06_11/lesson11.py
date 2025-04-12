@@ -46,13 +46,19 @@
 # if burg == "Yes" and potatos == "Yes" and not drink == "Yes":
 #     print("Won't you get thirsty?")
 
-username = "John123"
-pw = "pw123"
-usernameinput = input("What is username? ")
-pwinput = input("What is pw")
-if usernameinput == username and pwinput == pw:
-    print("Acces granted!")
-elif usernameinput == username or pwinput == pw:
-    print("either username or pw is incorrect")
-else:
-    print("lil bro tryna log on to little timmys account")
+# username = "John123"
+# pw = "pw123"
+# usernameinput = input("What is username? ")
+# pwinput = input("What is pw")
+# if usernameinput == username and pwinput == pw:
+#     print("Acces granted!")
+# elif usernameinput == username or pwinput == pw:
+#     print("either username or pw is incorrect")
+# else:
+#     print("lil bro tryna log on to little timmys account")
+
+
+
+
+
+
