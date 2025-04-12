@@ -72,9 +72,10 @@ while visitors < 50:
     visitors = visitors + 1 # visitors += 1
 print("there are " + str(visitors) + " visitors.")
 
-0 
+
 while visitors < 50:
     visitors = visitors + 1 # visitors += 1
 print("there are " + str(visitors) + " visitors.")
 
 
+# by the way we are on lesson 12:D
