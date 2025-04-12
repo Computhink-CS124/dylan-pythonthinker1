@@ -13,4 +13,4 @@ while visitors < max:
     if add == "yes":
         visitors = visitors + 1
         print("ok  i will add visitor")
-        print("there are ")
+        print("there are " + visitors + )
