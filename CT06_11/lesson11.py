@@ -37,25 +37,25 @@
 
 # pw = (input("Gimmie a pw "))
 # if not pw == "Python123":
-    # print("Acces denied")
+#     # print("Acces denied")
 
 
-# burg = input("Do you want burg")
-# potatos = input("Do you want fries")
-# drink = input("Do u want a drink")
-# if burg == "Yes" and potatos == "Yes" and not drink == "Yes":
-#     print("Won't you get thirsty?")
+# # burg = input("Do you want burg")
+# # potatos = input("Do you want fries")
+# # drink = input("Do u want a drink")
+# # if burg == "Yes" and potatos == "Yes" and not drink == "Yes":
+# #     print("Won't you get thirsty?")
 
-username = "Timmy123"
-pw = "pw123"
-usernameinput = input("What is username? ")
-pwinput = input("What is pw")
-if usernameinput == username and pwinput == pw:
-    print("Acces granted!")
-elif usernameinput == username or pwinput == pw:
-    print("either username or pw is incorrect")
-else:
-    print("lil bro tryna log on to little timmys account")
+# username = "Timmy123"
+# pw = "pw123"
+# usernameinput = input("What is username? ")
+# pwinput = input("What is pw")
+# if usernameinput == username and pwinput == pw:
+#     print("Acces granted!")
+# elif usernameinput == username or pwinput == pw:
+#     print("either username or pw is incorrect")
+# else:
+#     print("lil bro tryna log on to little timmys account")
 
 
 
