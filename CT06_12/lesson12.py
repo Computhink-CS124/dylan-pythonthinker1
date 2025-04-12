@@ -9,7 +9,7 @@
 visitors = 0
 max = 30
 while visitors < max:
-    add = int(input("do u wanna add a visiititiros????? "))
+    add = (input("do u wanna add a visiititiros????? "))
     if add == "yes":
         visitors = visitors + 1
         print("ok  i will add visitor")
