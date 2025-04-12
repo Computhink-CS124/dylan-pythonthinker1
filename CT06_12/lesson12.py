@@ -12,4 +12,4 @@ while visitors < max:
     add = int(input("do u wanna add a visiititiros????? "))
     if add == "yes":
         visitors = visitors + 1
-        print("ok add visitor" )
+        print("ok  i will add visitor")
