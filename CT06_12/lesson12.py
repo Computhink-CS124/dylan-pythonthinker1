@@ -17,6 +17,7 @@
 
 
 order = " "
+skipcomma = True
 while True:
     userinput = input("What would you like to order???? ")
     if userinput == "end":
