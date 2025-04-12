@@ -16,20 +16,27 @@
 #         print("there are " + str(visitors) + " visiititiros now")
 
 
-order = " "
-skipcomma = True
-while True:
-    userinput = input("What would you like to order???? ")
-    if userinput == "end":
-        break
-    else:
-        if skipcomma:
-            # add to order without comma
-            # change skipcomma to false
-        # else
-            order += "," + userinput
+# order = " "
+# skipcomma = True
+# while True:
+#     userinput = input("What would you like to order???? ")
+#     if userinput == "end":
+#         break
+#     else:
+#         if skipcomma:
+#             # add to order without comma
+#             # change skipcomma to false
+#         # else
+#             order += "," + userinput
         
         
     
     
-print(order)
+# print(order)
+
+
+
+
+
+
+
