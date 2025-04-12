@@ -23,7 +23,13 @@ while True:
     if userinput == "end":
         break
     else:
-        userinput = input("What would you like to order???? ")
+        if skipcomma:
+            # add to order without comma
+            # change skipcomma to false
+        # else
+            order += "," + userinput
+        
+        
     
-    order += "," + userinput
+    
 print(order)
