@@ -19,4 +19,7 @@
 order = " "
 while True:
     userinput = input("What would you like to order???? ")
-    
+    if userinput == "end":
+        break
+    else:
+        userinput = input("What would you like to order???? ")
