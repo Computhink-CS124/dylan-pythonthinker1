@@ -23,5 +23,5 @@ while True:
         break
     else:
         userinput = input("What would you like to order???? ")
-        order += "," + userinput
-    print(order)
+    order += "," + userinput
+print(order)
