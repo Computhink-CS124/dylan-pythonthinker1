@@ -9,4 +9,6 @@
 visitors = 0
 max = 30
 while visitors < max:
-    add = int(input())
+    add = int(input("do u wanna add a visiititiros????? "))
+    if add == "yes":
+        visitors = visitors
