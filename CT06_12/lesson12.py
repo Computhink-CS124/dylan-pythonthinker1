@@ -43,4 +43,5 @@ while num != 0:
     num = num - 1
     if num == 5:
         break
-print("sad new year!")
+else:
+    print("sad new year!")
