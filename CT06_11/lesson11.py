@@ -68,4 +68,5 @@
 #     print("The number is not divisable by 3 and 5")
 
 visitors = 0 
-
+while visitors > 50:
+    
