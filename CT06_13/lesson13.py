@@ -14,5 +14,6 @@ while True:
         amooount = int(input("HOW MUCH "))
         balance = balance + amooount
     if userans == 3:
-        print(balance)
+        print(str(balance)
     if userans == 4:
+        break
