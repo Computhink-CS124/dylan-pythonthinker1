@@ -13,7 +13,7 @@ while True:
     if userans == 2:
         amooount = int(input("HOW MUCH "))
         balance = balance + amooount
-        print ("YOU GO")
+        print ("")
     if userans == 3:
         print(str(balance))
     if userans == 4:
