@@ -33,5 +33,5 @@ groccccceries = [
 ]
 groccccceries.append ("ice")
 groccccceries.insert(1, "banana")
-skibidi_ohioitem = 
+skibidi_ohioitem = groccccceries.pop(1)
 print (groccccceries)
