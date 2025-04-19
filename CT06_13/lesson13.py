@@ -26,5 +26,5 @@ groccccceries = [
     "bread",
     "carrots",
     "dates",
-    
-]
+    "eggs",
+    ]
