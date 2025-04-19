@@ -22,5 +22,6 @@
 
 
 groccccceries = [
-    
+    "apple",
+    "bread"
 ]
