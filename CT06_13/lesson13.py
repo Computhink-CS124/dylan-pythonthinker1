@@ -34,3 +34,4 @@ groccccceries = [
 
 groccccceries[7] = "herbs"
 print(groccccceries)
+groccccceries.insert[1] = 
