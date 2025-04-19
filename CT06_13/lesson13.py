@@ -29,6 +29,6 @@ groccccceries = [
     "eggs",
     "flour",
     "grapes",
-    "honey",
+    "honey"
 ]
 print(groccccceries)
