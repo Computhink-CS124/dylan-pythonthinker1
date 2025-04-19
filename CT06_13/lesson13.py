@@ -11,4 +11,4 @@ while True:
         else:
             print("YOU BROKE BOIII U A FAILUREEEEE ")
     if userans == 2:
-        
+        amooount = int(input("HOW MUCH"))
