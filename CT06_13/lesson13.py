@@ -2,4 +2,4 @@
 
 
 while True:
-    userans = int
+    userans = int(input("WHAT DO U WANT DO DO ONE WITHDRAW TWO "))
