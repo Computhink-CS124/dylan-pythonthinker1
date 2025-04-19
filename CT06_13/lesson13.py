@@ -7,4 +7,4 @@ while True:
         amoooount = int(input("HWO MUCH MONEY  "))
         if amoooount <= balance:
             balance = balance - amoooount
-            print("OKEY ")
+            print("OKEY  DONE")
