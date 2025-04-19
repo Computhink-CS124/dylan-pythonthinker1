@@ -29,4 +29,5 @@ groccccceries = [
     "eggs",
     "flour,"
     "grapes",
-    "honey"]
+    "honey",
+]
