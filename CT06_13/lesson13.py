@@ -32,7 +32,5 @@ groccccceries = [
     "honey"
 ]
 
-groccccceries[7] == "herbs"
-print(groccccceries)
 groccccceries.insert(1) == ("banana")
 print (groccccceries)
