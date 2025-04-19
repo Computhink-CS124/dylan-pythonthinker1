@@ -32,5 +32,5 @@ groccccceries = [
     "honey"
 ]
 
-groccccceries[9]
+groccccceries[9] = "herbs"
 print(groccccceries)
