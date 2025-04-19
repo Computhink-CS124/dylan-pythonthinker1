@@ -31,4 +31,6 @@ groccccceries = [
     "grapes",
     "honey"
 ]
+
+groccccceries[9]
 print(groccccceries)
