@@ -9,4 +9,6 @@ while True:
             balance = balance - amoooount
             print("OKEY  DONE")
         else:
-            print("YOU BROKE BOIII UR")
+            print("YOU BROKE BOIII U A FAILUREEEEE ")
+    if userans == 2:
+        
