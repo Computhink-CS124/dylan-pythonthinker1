@@ -8,3 +8,5 @@ while True:
         if amoooount <= balance:
             balance = balance - amoooount
             print("OKEY  DONE")
+        else:
+            print("YOU BROKE BOIII UR")
