@@ -7,8 +7,11 @@ while True:
         amoooount = int(input("HWO MUCH MONEY  "))
         if amoooount <= balance:
             balance = balance - amoooount
-            print("OKEY  DONE")
+            print("OKEY  DONE YOU GOT " + balance)
         else:
             print("YOU BROKE BOIII U A FAILUREEEEE ")
     if userans == 2:
-        amooount = int(input("HOW MUCH"))
+        amooount = int(input("HOW MUCH "))
+        balance = balance + amooount
+    if userans == 3:
+        print(ba)
