@@ -32,5 +32,5 @@ groccccceries = [
     "honey"
 ]
 groccccceries.append == ("ice")
-groccccceries.insert(1) == ("banana")
+groccccceries.insert(1, "banana")
 print (groccccceries)
