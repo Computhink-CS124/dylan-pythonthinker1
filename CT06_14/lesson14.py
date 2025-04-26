@@ -13,12 +13,12 @@ for item in pisatopping:
 
 while True:
     
-    userinput = userinput + (input("Wut topping u want?????"))
+    userinput = userinput + int(input("Wut topping u want?????"))
     # userinput.append = pisatopping[usertop - 1]
     if userinput == "end":
         break
     else:
-        userinput.append(pisatopping[int(usertop) - 1])
+        userinput.append(pisatopping[int(i) - 1])
 
 for item in userinput:
     print(item)
