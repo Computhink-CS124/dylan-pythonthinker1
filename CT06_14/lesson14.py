@@ -19,4 +19,7 @@ while True:
         break
     else:
         userinput.append(pisatopping[int(userinput) - 1])
+
+for item in userinput:
+    print(item)
 print(userinput)
