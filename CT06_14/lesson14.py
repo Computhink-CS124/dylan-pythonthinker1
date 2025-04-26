@@ -7,4 +7,6 @@ pisatopping = [
 ]
 while True:
     for n in len:
-    userinput = int(input("Wut topping u want " + ([n + 1] + pisatopping[n] )))
+        userinput = int(input("Wut topping u want " + ([n + 1] + pisatopping[n] )))
+        if userinout == "end":
+            break
