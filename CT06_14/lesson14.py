@@ -6,7 +6,7 @@ pisatopping = [
 "cheese"
 ]
 while True:
-    for i in :
+    for i in range(3):
         userinput = int(input("Wut topping u want " + ([n + 1] + pisatopping[n] )))
         if userinput == "end":
             break
