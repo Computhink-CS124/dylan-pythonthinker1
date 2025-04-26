@@ -41,7 +41,7 @@ t.seth(90)
 t.down
 for i in range(4):
     t.forward(180)
-t.right
+    t.right(90)
 
 
 
