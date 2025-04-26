@@ -31,7 +31,7 @@
 
 import turtle
 
-window= turtle.Screen(width = 600, height = 400)
+window.setup(width = 600, height = 400)
 
 t= turtle.Turtle()
 
