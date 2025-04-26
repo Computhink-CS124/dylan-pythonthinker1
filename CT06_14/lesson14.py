@@ -38,7 +38,8 @@ t= turtle.Turtle()
 t.shape("turtle")
 t.fillcolor("orange")
 t.seth(90)
-t
+t.down
+t.
 
 
 
