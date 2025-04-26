@@ -6,5 +6,5 @@ pisatopping = [
 "cheese"
 ]
 while True:
-    if
-        userinput = int(input("Wut topping u want " + pisatopping))
+    for n in len:
+    userinput = int(input("Wut topping u want " + ([n + 1] + pisatopping[n] )))
