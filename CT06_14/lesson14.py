@@ -17,4 +17,4 @@ while True:
             break
     else:
             userinput.append(pisatopping[int(userinput) - 1])
-print( )
+print(userinput)
