@@ -7,6 +7,7 @@ pisatopping = [
 ]
 userinput = []
 while True:
+    print()
     for item in pisatopping:
         userinput.append = int(input("Wut topping u want?????"))
         if userinput == "end":
