@@ -31,6 +31,6 @@
 
 import turtle
 
-window= turtle.Screen()
+window= turtle.Screen(width = 600, height = 400)
 
 window.mainloop()
