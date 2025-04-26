@@ -12,7 +12,7 @@ while True:
         print(str(i + 1) + str(pisatopping[i]))
         i = i + 1
     usertop = int(input("Wut topping u want?????"))
-    userinput.append = pisatopping[int(input("Wut topping u want?????")) - 1]
+    userinput.append = pisatopping[usertop - 1]
     if userinput == "end":
             break
     else:
