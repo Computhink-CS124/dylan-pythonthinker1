@@ -11,9 +11,9 @@ while True:
     for item in pisatopping:
         print(str(i + 1) + str(pisatopping[i]))
         i = i + 1
-        userinput.append = int(input("Wut topping u want?????"))
-        if userinput == "end":
+    userinput.append = int(input("Wut topping u want?????"))
+    if userinput == "end":
             break
-        else:
+    else:
             userinput.append(pisatopping[int(userinput) - 1])
 print( )
