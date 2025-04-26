@@ -5,4 +5,4 @@ pisatopping = [
 "cheese"
 ]
 while True:
-    userinput = int(input("W"))
+    userinput = int(input("Wut topping u want " + ()))
