@@ -13,7 +13,7 @@ for item in pisatopping:
 
 while True:
     
-    userinput = userinput.ap(input("Wut topping u want?????"))
+    usertop = (input("Wut topping u want?????"))
     # userinput.append = pisatopping[usertop - 1]
     if userinput == "end":
         break
