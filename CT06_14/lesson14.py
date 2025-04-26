@@ -18,7 +18,7 @@ while True:
     if userinput == "end":
         break
     else:
-        userinput.append(pisatopping[int(usertop) - 1])
+        userinput.append(pisatopping[int(usertop - 1])
 
 for item in userinput:
     print(item)
