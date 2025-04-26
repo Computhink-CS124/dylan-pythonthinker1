@@ -39,7 +39,8 @@ t.shape("turtle")
 t.fillcolor("orange")
 t.seth(90)
 t.down
-t.
+t.forward(180)
+
 
 
 
