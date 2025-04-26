@@ -1,5 +1,6 @@
 # print("Hello from lesson 15")
 pisatopping = [
-mushroo
+mushrooms, 
+
 
 ]
