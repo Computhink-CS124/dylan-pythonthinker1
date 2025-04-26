@@ -12,9 +12,9 @@ for item in pisatopping:
     i = i + 1
 
 while True:
-    fo
+    
     usertop = input("Wut topping u want?????")
-    userinput.append = pisatopping[usertop - 1]
+    # userinput.append = pisatopping[usertop - 1]
     if userinput == "end":
             break
     else:
