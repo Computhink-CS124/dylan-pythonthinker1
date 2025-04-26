@@ -34,4 +34,6 @@ import turtle
 window= turtle.Screen(width = 600, height = 400)
 
 window.mainloop()
-t= turtle.turtle
+t= turtle.turtle(
+    t.shap
+)
