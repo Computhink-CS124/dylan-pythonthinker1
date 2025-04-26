@@ -29,4 +29,6 @@
 
 
 
-import turt
+import turtle
+
+window= turtle.Screen()
