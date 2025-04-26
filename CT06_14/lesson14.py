@@ -30,7 +30,7 @@
 
 
 import turtle
-window.turtle
+window.turtle.Turtle
 window.setup(width = 600, height = 400)
 
 t= turtle.Turtle()
