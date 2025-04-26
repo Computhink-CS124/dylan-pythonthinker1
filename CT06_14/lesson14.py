@@ -55,7 +55,7 @@ for i in range(5):
     t.forward(30)
     t.right(72)
 
-
+t.forward(180)
 
 
 
