@@ -33,7 +33,15 @@ import turtle
 
 window= turtle.Screen(width = 600, height = 400)
 
-window.mainloop()
 t= turtle.Turtle()
 
 t.shape(turtle)
+
+
+
+
+
+
+
+
+window.mainloop()
