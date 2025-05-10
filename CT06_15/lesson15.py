@@ -11,4 +11,6 @@ while True:
 
 
 pw = "superpass123"
-input("Enter the password")
+user_input = input("Enter the password")
+if user_input == "superpass123":
+    print()
