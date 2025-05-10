@@ -15,4 +15,4 @@ user_input = input("Enter the password")
 if user_input == "superpass123":
     print("Access Granted!")
 else:
-    print("Access dei")
+    print("Access denied")
