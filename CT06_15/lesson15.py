@@ -10,4 +10,5 @@ while True:
 
 
 
-pw = 
+pw = "superpass123"
+input()
