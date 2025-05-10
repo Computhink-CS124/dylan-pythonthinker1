@@ -11,4 +11,4 @@ while True:
 
 
 pw = "superpass123"
-input()
+input("Enter the password")
