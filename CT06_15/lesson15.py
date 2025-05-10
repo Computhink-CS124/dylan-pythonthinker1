@@ -1,2 +1,2 @@
-for i in range(10,0,200):
+for i in range(10,201):
     print (i)
