@@ -1,2 +1,4 @@
-for i in range(10,201, 10):
-    print (i)
+counter = 10
+
+while True:
+    print(counter)
