@@ -1,2 +1,2 @@
 planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
-print(p)
+print(planets[2])
