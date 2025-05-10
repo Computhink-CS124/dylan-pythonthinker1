@@ -6,4 +6,4 @@ del(planets[6])
 length = len(planets)
 counter = 0
 for i in range (length):
-    print ()
+    print (planets[counter])
