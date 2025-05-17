@@ -8,4 +8,4 @@
 #         print (str(n) + " is an odd number")
 
 def square(num):
-    
+    return num*num
