@@ -1,2 +1,2 @@
 def isEven():
-    return 
+    return n % 2 == 0
