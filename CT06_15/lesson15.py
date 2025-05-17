@@ -7,9 +7,9 @@
 #     else:
 #         print (str(n) + " is an odd number")
 
-# def square(num):
-#     return num * num
+def square(num):
+    return num * num
 # print(square(2255))
 def sum_of_squares(num,num2):
-    return num * num + num2 * num2
+    return square + num2 * num2
 print(sum_of_squares(44,55))
