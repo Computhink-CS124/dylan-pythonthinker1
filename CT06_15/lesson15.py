@@ -7,6 +7,8 @@
 #     else:
 #         print (str(n) + " is an odd number")
 
-def square(num):
-    return num * num
-print(square(2255))
+# def square(num):
+#     return num * num
+# print(square(2255))
+def sum_of_squares(numnum2):
+    return 
