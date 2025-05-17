@@ -1,5 +1,5 @@
 def isEven():
-    return n % 2 == 0
+    n % 2 == 0
 numbers = [3, 9, 2, 4, 5, 8]
 for n in numbers:
     if isEven == True:
