@@ -37,29 +37,29 @@ t= turtle.Turtle()
 
 t.shape("turtle")
 t.fillcolor("orange")
-t.seth(90)
-t.down
-for i in range(360):
-    t.forward(1)
-    t.right(1)
+# t.seth(90)
+# t.down
+# for i in range(360):
+#     t.forward(1)
+#     t.right(1)
 
-for i in range(4):
-    t.forward(180)
-    t.right(90)
+# for i in range(4):
+#     t.forward(180)
+#     t.right(90)
 
-for i in range(3):
-    t.forward(180)
-    t.right(120)
+# for i in range(3):
+#     t.forward(180)
+#     t.right(120)
 
-for i in range(5):
-    t.forward(30)
-    t.right(72)
+# for i in range(5):
+#     t.forward(30)
+#     t.right(72)
 
 
-for i in range(6):
-    t.forward(50)
-    t.right(60)
-t.forward(180)
+# for i in range(6):
+#     t.forward(50)
+#     t.right(60)
+# t.forward(180)
 
 
 
