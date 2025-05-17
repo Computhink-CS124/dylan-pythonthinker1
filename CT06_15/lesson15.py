@@ -12,3 +12,4 @@
 # print(square(2255))
 def sum_of_squares(num,num2):
     return num * num + num2 * num2
+print(sum_of_squares())
