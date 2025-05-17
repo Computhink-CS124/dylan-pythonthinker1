@@ -10,5 +10,5 @@
 # def square(num):
 #     return num * num
 # print(square(2255))
-def sum_of_squares(numnum2):
-    return 
+def sum_of_squares(num,num2):
+    return num * num 
