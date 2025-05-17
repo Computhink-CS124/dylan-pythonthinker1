@@ -9,4 +9,4 @@
 
 def square(num):
     return num * num
-print(square(55))
+print(square(2255))
