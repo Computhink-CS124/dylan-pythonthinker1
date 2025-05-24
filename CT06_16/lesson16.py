@@ -31,7 +31,7 @@ def moveball(ball, dx, dy):
     ball.sety(ball.ycor( + dy))
 ball = bigblueballs()
 screen = setup_screnn (screenWidth, screenHeight)
-move
+moveball(ball, dx, dy)
 
 
 
