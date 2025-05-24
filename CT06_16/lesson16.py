@@ -17,7 +17,7 @@ def bigblueballs():
     ball.shape("circle")
     ball.color("blue")
     ball.penup
-    return turtle
+    return ball
 ball = bigblueballs
 screen = setup_screnn (screenWidth, screenHeight)
 
