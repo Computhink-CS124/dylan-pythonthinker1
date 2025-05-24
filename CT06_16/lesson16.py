@@ -16,4 +16,4 @@ screen = setup_screnn (screenWidth, screenHeight)
 
 
 
-window.mainloop()
+screen.mainloop()
