@@ -9,7 +9,7 @@ def setup_screnn (screenWidth, screenHeight):
     return 
 screenHeight = 500
 screenWidth = 300
-
+screen = setup
 
 
 
