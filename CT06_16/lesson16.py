@@ -17,7 +17,7 @@ def bigblueballs():
     turtle.shape("circle")
     turtle.color("blue")
     turtle.penup
-    return bigblueballs
+    return turtle
 bigblueballs
 
 
