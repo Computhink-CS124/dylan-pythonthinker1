@@ -12,7 +12,7 @@ screenHeight = 500
 screenWidth = 300
 
 
-def bigblueballs()
+def bigblueballs():
     ball=turtle.Turtle()
     ball.shape("circle")
     ball.color("blue")
