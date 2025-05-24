@@ -5,7 +5,7 @@ t=turtle.Turtle()
 
 
 def setup_screnn (screenWidth, screenHeight):
-    t.setup(width= 300, screenHeightheight = 500)
+    setup
 
 
 
