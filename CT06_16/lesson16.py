@@ -17,6 +17,7 @@ def bigblueballs():
     turtle.shape("circle")
     turtle.color("blue")
     turtle.penup
+    return t
 
 
 screen.mainloop()
