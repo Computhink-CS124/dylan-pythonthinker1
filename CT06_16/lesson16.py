@@ -18,7 +18,7 @@ def bigblueballs():
     ball.color("blue")
     ball.penup
     return turtle
-bigblueballs
+ball = bigblueballs
 
 
 
