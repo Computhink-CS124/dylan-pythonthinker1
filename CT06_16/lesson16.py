@@ -28,7 +28,7 @@ def bigblueballs():
 
 def moveball(ball, dx, dy):
     ball.setx(ball.xcor( + dy))
-    ball.sety(ball.xcor( + dy))
+    ball.sety(ball.ycor( + dy))
 ball = bigblueballs()
 screen = setup_screnn (screenWidth, screenHeight)
 
