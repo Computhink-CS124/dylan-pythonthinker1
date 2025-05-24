@@ -10,16 +10,16 @@ def setup_screnn (screenWidth, screenHeight):
     return window
 screenHeight = 500
 screenWidth = 300
-screen = setup_screnn (screenWidth, screenHeight)
 
-def bigblueballs():
+
+def bigblueballs()
     ball=turtle.Turtle()
     ball.shape("circle")
     ball.color("blue")
     ball.penup
     return turtle
 ball = bigblueballs
-
+screen = setup_screnn (screenWidth, screenHeight)
 
 
 
