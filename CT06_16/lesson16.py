@@ -8,7 +8,7 @@ def drawshape (length, numsides):
         t.forward(length)
         t.left(360 / numsides)
 lengthvar = int(input("length? "))
-drawshape(1, 360)
+drawshape(lengthvar, 360)
 
 
 
