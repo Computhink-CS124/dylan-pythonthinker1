@@ -7,7 +7,7 @@ def drawshape (length, numsides):
     for i in range(numsides):
         t.forward(length)
         t.left(360 / numsides)
-lengthvar = i
+lengthvar = int(input("length? "))
 drawshape(1, 360)
 
 
