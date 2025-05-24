@@ -5,7 +5,7 @@ import turtle
 
 
 def setup_screnn (screenWidth, screenHeight):
-    windo
+    window=turtle.Screen()
     window.setup (width = screenWidth, height = screenHeight)
     return 
 screenHeight = 500
