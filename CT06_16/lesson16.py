@@ -14,9 +14,9 @@ screen = setup_screnn (screenWidth, screenHeight)
 
 def bigblueballs():
     ball=turtle.Turtle()
-    turtle.shape("circle")
-    turtle.color("blue")
-    turtle.penup
+    ball.shape("circle")
+    ball.color("blue")
+    ball.penup
     return turtle
 bigblueballs
 
