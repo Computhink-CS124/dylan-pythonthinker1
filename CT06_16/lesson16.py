@@ -18,7 +18,7 @@ def bigblueballs():
     ball.color("blue")
     ball.penup
     return ball
-ball = bigblueballs
+ball = bigblueballs()
 screen = setup_screnn (screenWidth, screenHeight)
 
 
