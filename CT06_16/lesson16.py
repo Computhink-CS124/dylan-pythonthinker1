@@ -4,8 +4,9 @@ window=turtle.Screen()
 t=turtle.Turtle()
 
 def drawshape (length, numsides):
-    t.forward(length)
-    t.left(360 / numsides)
+    for i in range(numsides):
+        t.forward(length)
+        t.left(360 / numsides)
 
 drawshape(1, 360)
 
