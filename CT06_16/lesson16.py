@@ -13,7 +13,7 @@ screenWidth = 300
 screen = setup_screnn (screenWidth, screenHeight)
 
 def bigblueballs():
-    turtle.shape(circle)
+    turtle.shape()
 
 
 
