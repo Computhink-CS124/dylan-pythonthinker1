@@ -5,7 +5,7 @@ t=turtle.Turtle()
 
 def drawshape (length, numsides):
     t.forward(length)
-    t.left()
+    t.left(360 / numsides)
 
 
 
