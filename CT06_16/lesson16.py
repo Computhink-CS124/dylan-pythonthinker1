@@ -2,4 +2,16 @@
 import turtle
 window=turtle.Screen()
 t=turtle.Turtle()
+
+def drawshape (length, numsides):
+    t.se
+
+
+
+
+
+
+
+
+
 window.mainloop()
