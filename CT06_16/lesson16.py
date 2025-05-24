@@ -1,7 +1,7 @@
 # print("Hello from lesson 16")
 import turtle
 # window=turtle.Screen()
-# t=turtle.Turtle()
+t=turtle.Turtle()
 
 
 def setup_screnn (screenWidth, screenHeight):
@@ -16,6 +16,7 @@ def bigblueballs():
     ball=turtle.Turtle()
     turtle.shape("circle")
     turtle.color("blue")
+    turtle.penup
 
 
 screen.mainloop()
