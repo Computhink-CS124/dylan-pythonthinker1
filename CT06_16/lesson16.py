@@ -8,7 +8,7 @@ def setup_screnn (screenWidth, screenHeight):
     window.setup (width = 300, height = 500)
     return 
 screenHeight = 500
-screen
+screenWidth = 300
 
 
 
